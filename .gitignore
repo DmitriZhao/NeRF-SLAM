@@ -2,6 +2,10 @@ imgui.ini
 *.npz
 *.svg
 
+# IDE
+.idea
+.vscode
+
 # Meshes
 *.pcd
 *.ply
@@ -17,9 +21,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Datasets
+datasets/
+
 # Distribution / packaging
 .Python
 build/
+build_*/
 develop-eggs/
 dist/
 downloads/

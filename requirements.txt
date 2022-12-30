@@ -12,6 +12,8 @@ jupyter
 imageio
 
 glog
+colored-glog
+termcolor
 icecream
 
 pandas
